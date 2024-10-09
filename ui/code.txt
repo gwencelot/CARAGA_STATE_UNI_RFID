@@ -1,0 +1,1 @@
+pyuic5.exe -x app_ui.ui -o app_ui.py

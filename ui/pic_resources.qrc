@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="csu">
+    <file>csdu.jpg</file>
+  </qresource>
+</RCC>
